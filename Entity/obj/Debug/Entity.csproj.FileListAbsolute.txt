@@ -1,0 +1,6 @@
+D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\Entity\bin\Debug\Entity.dll
+D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\Entity\bin\Debug\Entity.pdb
+D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\Entity\obj\Debug\Entity.dll
+D:\UNICESAR-2023\P3\GRUPO-03\Taller_Departamentos_Municipios\Entity\obj\Debug\Entity.pdb
